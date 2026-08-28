@@ -1,6 +1,6 @@
 ***COP4655 Lab0*** - 
 
-  App Description: 
+  \tApp Description: 
 
     COP4655 Lab0PreWork, getting familiar with XCode and set up GitHub repo
 
