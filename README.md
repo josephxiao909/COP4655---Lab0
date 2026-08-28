@@ -1,8 +1,7 @@
 ***COP4655 Lab0***
 
 App Description - 
-
-TODO:// Add app description
+COP4655 Lab0PreWork, getting familiar with XCode and set up GitHub repo
 
 App Walk-though
 TODO:// Add the URL to your animated app walk-though gif in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
