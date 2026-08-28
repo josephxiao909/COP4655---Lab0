@@ -1,6 +1,7 @@
 ***COP4655 Lab0***
 
 App Description - 
+
 COP4655 Lab0PreWork, getting familiar with XCode and set up GitHub repo
 
 App Walk-though
